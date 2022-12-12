@@ -11,6 +11,7 @@
     <modules>
         <module>server-wyg-order</module>
         <module>server-wyg-product</module>
+        <module>server-wyg-upload</module>
         <module>common</module>
     </modules>
 </project>
